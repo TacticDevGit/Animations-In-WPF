@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Animation", "WPF Animation\WPF Animation.csproj", "{F032203E-D81D-4BF6-8E48-12912043EA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F032203E-D81D-4BF6-8E48-12912043EA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F032203E-D81D-4BF6-8E48-12912043EA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F032203E-D81D-4BF6-8E48-12912043EA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F032203E-D81D-4BF6-8E48-12912043EA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63DBC2E-1CC7-46E4-9F53-DA589B655983}
+	EndGlobalSection
+EndGlobal

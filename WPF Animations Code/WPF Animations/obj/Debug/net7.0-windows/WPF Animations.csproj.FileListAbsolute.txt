@@ -1,0 +1,21 @@
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\bin\Debug\net7.0-windows\WPF Animations.exe
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\bin\Debug\net7.0-windows\WPF Animations.deps.json
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\bin\Debug\net7.0-windows\WPF Animations.runtimeconfig.json
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\bin\Debug\net7.0-windows\WPF Animations.dll
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\bin\Debug\net7.0-windows\WPF Animations.pdb
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.g.resources
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.dll
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\refint\WPF Animations.dll
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.pdb
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\WPF Animations.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\Basic Animation in WPF\WPF Animations Code\WPF Animations\obj\Debug\net7.0-windows\ref\WPF Animations.dll
